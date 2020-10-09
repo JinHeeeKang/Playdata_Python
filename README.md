@@ -75,17 +75,3 @@
   -LightGBM   
     - breast cancer 데이터, wine 데이터   
     
-    
-## 9월 10일 딥러닝
-- 경사 하강법(수치미분)
-- 오차역전파법
-
-
-## 9월 15일 딥러닝
-- CNN 합성곱신경망
-  - 모델 생성, 학습, 검증, 그래프
-    - keras 패키지 Flatten, Dense
-    - cifar10, fashion_mnist 데이터
-    
-## 9월 17일 딥러닝   
-- LeNet 구현
